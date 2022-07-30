@@ -24,13 +24,13 @@
         //jumping = false
     //}
     //position -= 30
-    //dino.style.bottom = position + 'px'
+    //ball.style.bottom = position + 'px'
 //},20)
 
 //move up
 //console.log('up)
 //position += 30
-//dino.style.bottom = position + 'px'
+//ball.style.bottom = position + 'px'
 //},20)
 //})
 
