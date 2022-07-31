@@ -4,3 +4,18 @@
     background-color: cornflowerblue;
     border-radius: 50%;
 }
+
+.score-container {
+    display: flex;
+    justify-content: flex-end;
+}
+.score {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    height: 20px;
+    border-color: black;
+    background-color: lightblue; 
+    text-align: center;
+}
