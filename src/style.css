@@ -3,6 +3,8 @@
     height: 60px;
     background-color: cornflowerblue;
     border-radius: 50%;
+    position:absolute;
+    bottom: 0px;
 }
 
 .score-container {
